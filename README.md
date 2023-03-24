@@ -8,6 +8,5 @@ This is a website built to showcase my technical skills, web design skills.
 
 Technologies Used 
 
-<li>HTML<li/>
-<li>HTML<li/>
+<li>HTML CSS JS<li/>
 
