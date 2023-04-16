@@ -1,6 +1,7 @@
 # Personal Portfolio website
-  Check Out : https://manjuswaroop.netlify.app/
-
+  Check Out : 
+  <li> https://manjuswaroop.netlify.app/
+  <li> https://manjuswaroop.vercel.app/
 This is a website built to showcase my technical skills, web design skills.
 
 <img width="800" alt="image" src="https://github.com/manjuv03/Portfolio/blob/main/images/Portfolio%20UI.png">
